@@ -1,0 +1,292 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;600&display=swap');
+
+
+*{
+    margin: 0; 
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+body{
+    background-color: #F4F4F4;
+    text-align: right;
+    font-family: 'Open Sans', sans-serif;
+}
+
+main{
+    background-color: #F4F4F4;
+    
+}
+
+/* Parte de arriba */
+
+header{
+padding-top: 50px;
+padding-left: 10px;
+padding-right: 10px;
+padding-bottom: 30px;
+background-color: #24282b;
+border-bottom-color:#1293d4;
+border-width: 10px;
+border-style: solid;
+
+}
+
+
+nav ol li {
+    float: right;
+    color: #ffffff;
+    list-style: none;
+    display: inline;
+    margin: 20px;
+    margin-left: 6px;
+    margin-right: 44px;
+    margin-top: -18px;
+    margin-bottom: 21px;
+}
+a{
+    color: white;
+    outline: none;
+    text-decoration: none;
+      
+}
+a:hover{
+    color:#1293d4
+}
+
+
+h2{
+    float: left;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600%;
+    margin-left: 104px ;
+    margin-top: -22px;
+    border-bottom: 10px;
+    border-color: #2e25257c;
+    size: 500 px;
+    color: rgb(255, 255, 255);
+     
+}
+span{
+    color: #1293d4;
+}
+
+
+/* Boletín */ 
+
+
+.Boletín{
+    
+    position: relative;
+    padding-top: 123px;
+    padding-left: -48px;
+    padding-right: -10px;
+    padding-bottom: -15px;
+    margin: -2px 2px 2px -2px;
+    background-color: #24282b;
+
+    
+
+}
+.Boletín h2{
+    display: inline;
+    font-family: 'Open Sans', sans-serif;
+    padding: 10px 10px 10px 10px;
+    margin: -84px -398px -3px 113px;
+    float: left;
+    color: white;
+
+
+}
+
+.Boletín input {
+    color: rgb(0, 0, 0);
+    font-weight: 600px;
+    font-family: 'Open Sans', sans-serif;
+    padding: 10px 66px 10px 10px;
+    margin: -85px -577px -130px 969px;
+    float: left;
+}
+
+
+
+.Boletín button{
+    position: relative;
+    float: right;
+    background-color: #ff5100;
+    color: #ffffff;
+    margin: -85px 58px 8px 16px;
+    padding: 10px 11px 11px 12px;
+}
+
+.Info h2{
+
+    float: left;
+    font-family: 'Open Sans', sans-serif;
+    margin: 26px -197px 10px 107px;
+    padding: 10px 10px 10px 10px;
+    border-bottom: 10px;
+    border-color: #2e25257c;
+    size: 500 px;
+    color: rgb(0, 0, 0);
+
+}
+
+.formulario {
+    margin: 123px 29px 10px 60px;
+    padding: 10px 10px 10px 10px;
+    float: left;
+    text-align: left;
+}
+
+.input1 input {
+    color: rgb(0, 0, 0);
+    font-weight: 600px;
+    font-family: 'Open Sans', sans-serif;
+    padding: 10px 526px 10px 10px;
+    margin: -39px -577px -130px 12px;
+    float: left;
+}
+.input1 p{
+    color: rgb(0, 0, 0);
+    font-weight: 600px;
+    font-family: 'Open Sans', sans-serif;
+    padding: 10px 66px 10px 10px;
+    margin: -70px -549px -130px 4px;
+    float: left;
+}
+
+.input2 input{
+    color: rgb(0, 0, 0);
+    font-weight: 600px;
+    font-family: 'Open Sans', sans-serif;
+    padding: 10px 526px 10px 10px;
+    margin: 34px -577px -130px 13px;
+    float: left;
+}
+.input2  p{
+    color: rgb(0, 0, 0);
+    font-weight: 600px;
+    font-family: 'Open Sans', sans-serif;
+    padding: 10px 66px 10px 10px;
+    margin: 3px -577px -130px 5px;
+    float: left;
+}
+
+.input3 input{
+    color: rgb(0, 0, 0);
+    font-weight: 600px;
+    font-family: 'Open Sans', sans-serif;
+    padding: 10px 526px 10px 10px;
+    margin:106px -577px -130px 12px;
+    float: left;
+}
+.input3 p{
+    color: rgb(0, 0, 0);
+    font-weight: 600px;
+    font-family: 'Open Sans', sans-serif;
+    padding: 10px 66px 10px 10px;
+    margin: 74px -577px -130px 2px;
+    float: left;
+}
+
+.input4 input{
+    color: rgb(0, 0, 0);
+    font-weight: 600px;
+    font-family: 'Open Sans', sans-serif;
+    padding: 10px 526px 10px 10px;
+    margin: 171px -577px -130px -125px;
+    float: left;
+}
+.input4 p{
+    color: rgb(0, 0, 0);
+    font-weight: 600px;
+    font-family: 'Open Sans', sans-serif;
+    padding: 10px 66px 10px 10px;
+    margin: 140px -577px -130px -132px;
+    float: left;
+}
+
+.input5 input{
+    color: rgb(0, 0, 0);
+    font-weight: 600px;
+    font-family: 'Open Sans', sans-serif;
+    padding: 179px 525px 10px 10px;
+    margin: 242px -232px -4px -123px;
+    float: left;
+}
+.input5 p{
+    color: rgb(0, 0, 0);
+    font-weight: 600px;
+    font-family: 'Open Sans', sans-serif;
+    padding: 227px 181px 43px 8px;
+    margin: -6px -462px -4px -130px;
+    float: left;
+}
+
+.boton button{
+    position: relative;
+    float: right;
+    background-color: #ff5100;
+    color: #ffffff;
+    padding: 7px 600px 9px 58px;
+    margin: 14px -62px 3px 12px;
+}
+
+.boton p {
+    position: relative;
+    float: right;
+    color: #ffffff;
+    padding: -2px 6px 9px 58px;
+    margin: 9px -243px 1px 246px;
+}
+
+.Asider {
+    position: relative;
+    text-align: left;
+    padding: -8px 120px 55px 16px;
+    margin: -633px 67px -6px 941px;
+    background-color: #24282b;
+    float: right;
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(0, 0, 0);
+}
+
+.Asider p{
+    margin: -7px 9px 6px 9px;
+    padding: 65px 0px 24px 16px;
+    color: white;
+}
+
+.Asider h2{
+    text-align: right;
+    padding: 43px 0px 31px -2px;
+    margin: 25px 8px 3px 23px;
+}
+
+.imgMapa img {
+    width: 344px;
+    height: 361px;
+    margin: -1125px 61px 40px 933px;
+}
+
+/* Footer: */
+
+footer{
+    position: relative;
+    padding-top: 5px;
+    padding-bottom: 18px;
+    margin: -20px 0px -39px -32px;
+    background-color: #0693ff;
+}
+
+
+
+footer p{
+
+    color: white;
+    padding-left: 10px;
+    padding-top: 10px;
+    margin: 19px 497px 10px 10px;
+
+}
